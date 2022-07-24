@@ -1,0 +1,20 @@
+/* My custom Menu style */
+
+.My-logo a {
+    color: #3E3E3E;
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.my-main-menu {}
+
+.my-main-menu li {}
+
+.my-main-menu li a {
+    text-decoration: none;
+    padding: 0 30px;
+    display: inline-block;
+    color: #3E3E3E;
+    font-weight: 500;
+}
